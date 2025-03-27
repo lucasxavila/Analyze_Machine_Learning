@@ -1,4 +1,4 @@
-# Proposta de Análise: Predição de Níveis de Estresse com Regressão Linear com Machine Learning
+# Proposta de Análise: Predição de Níveis de Estresse com Machine Learning utilizando a técnica de Regressão Linear
 
 ## 1. Descrição da Base de Dados Escolhida: 
 A base de dados "Mental Health and Lifestyle Dataset (2019-2024)", disponível no Kaggle, contém informações sobre vários fatores relacionados ao **estilo de vida e saúde mental dos indivíduos**. As variáveis incluem dados como idade, gênero, país, nível de exercício, tipo de dieta, horas de sono, nível de estresse, presença de condições de saúde mental diagnosticadas, horas de trabalho por semana, tempo de tela diário, qualidade das interações sociais e o nível de felicidade geral.
